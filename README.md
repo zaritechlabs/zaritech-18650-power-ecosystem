@@ -28,7 +28,7 @@ The modular development timeline, cascading array configurations, and official c
 
 
 ### Verified Cell Tier Lineup
-![Zaritech Standard 18650 Tiers](cell_tiers.jpeg)
+<img src="charging_array.png" alt="Zaritech 18650 Prototyping Array" width="450">
 
 ---
 
