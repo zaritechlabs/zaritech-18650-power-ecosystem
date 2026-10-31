@@ -24,7 +24,8 @@ Our modular charging and prototyping testboards are designed for optimal thermal
 The modular development timeline, cascading array configurations, and official cell-sorting tiers are visually detailed below:
 
 ### Modular Prototyping Array
-![Zaritech 18650 Prototyping Array](charging_array.jpeg)
+<img src="charging_array.png" alt="Zaritech 18650 Prototyping Array" width="450">
+
 
 ### Verified Cell Tier Lineup
 ![Zaritech Standard 18650 Tiers](cell_tiers.jpeg)
